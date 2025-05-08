@@ -1,3 +1,3 @@
-API_TOKEN = "d533e23a5ecca2b4ae57df4fc07adf6c7e32c806"
+API_TOKEN = "xxx"
 STATIONS = ["@13026","@1583","@8688","@44434","@13427","@8641","A463795"]
 CITY = "Hanoi"

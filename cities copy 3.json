@@ -1,0 +1,36 @@
+{
+  "aqi": 89,
+  "idx": -476599,
+  "attributions": [
+	{
+	  "url": "https://sensor.community/",
+	  "name": "Citizen Science project sensor.community",
+	  "station": "86764"
+	},
+	{
+	  "url": "https://waqi.info/",
+	  "name": "World Air Quality Index Project"
+	}
+  ],
+  "city": {
+	"geo": [21.042778, 105.829319],
+	"name": "Phố Nguyễn Đình Thi",
+	"url": "https://aqicn.org/station/@476599",
+	"location": "Apartment E, Phố Nguyễn Đình Thi, Thuy Khue Ward, Tay Ho District, Hà Nội, 10040, Vietnam"
+  },
+  "dominentpol": "pm25",
+  "iaqi": {
+	"pm10": {
+	  "v": 53
+	},
+	"pm25": {
+	  "v": 89
+	}
+  },
+  "time": {
+	"s": "2025-05-05 09:03:34",
+	"tz": "+07:00",
+	"v": 1746410614,
+	"iso": "2025-05-05T02:03:34Z"
+  }
+}

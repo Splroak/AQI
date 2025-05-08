@@ -1,0 +1,77 @@
+{
+  "aqi": 74,
+  "idx": 13427,
+  "attributions": [
+	{
+	  "url": "https://moitruongthudo.vn/",
+	  "name": "Cổng thông tin quan trắc môi trường thủ đô Hà Nội",
+	  "logo": "Vietnam-CEM.png"
+	},
+	{
+	  "url": "https://waqi.info/",
+	  "name": "World Air Quality Index Project"
+	}
+  ],
+  "city": {
+	"geo": [21.035584, 105.852771],
+	"name": "Hà Nội/TT giao lưu văn hóa phố cổ - Hoàn Kiếm, Vietnam",
+	"url": "https://aqicn.org/city/vietnam/ha-noi/tt-giao-luu-van-hoa-pho-co-hoan-kiem",
+	"location": ""
+  },
+  "dominentpol": "pm25",
+  "iaqi": {
+	"co": {"v": 0.1},
+	"dew": {"v": 25.5},
+	"h": {"v": 74.5},
+	"no2": {"v": 25},
+	"p": {"v": 1007},
+	"pm10": {"v": 29},
+	"pm25": {"v": 74},
+	"t": {"v": 30.5},
+	"w": {"v": 1.8}
+  },
+  "time": {
+	"s": "2025-05-05 09:00:00",
+	"tz": "+07:00",
+	"v": 1746435600,
+	"iso": "2025-05-05T09:00:00+07:00"
+  },
+  "forecast": {
+	"daily": {
+	  "pm10": [
+		{"avg": 67, "day": "2025-05-03", "max": 123, "min": 28},
+		{"avg": 50, "day": "2025-05-04", "max": 71, "min": 29},
+		{"avg": 62, "day": "2025-05-05", "max": 87, "min": 46},
+		{"avg": 59, "day": "2025-05-06", "max": 75, "min": 46},
+		{"avg": 46, "day": "2025-05-07", "max": 56, "min": 29},
+		{"avg": 79, "day": "2025-05-08", "max": 123, "min": 29},
+		{"avg": 56, "day": "2025-05-09", "max": 73, "min": 33},
+		{"avg": 45, "day": "2025-05-10", "max": 59, "min": 28},
+		{"avg": 46, "day": "2025-05-11", "max": 46, "min": 46}
+	  ],
+	  "pm25": [
+		{"avg": 157, "day": "2025-05-03", "max": 252, "min": 89},
+		{"avg": 130, "day": "2025-05-04", "max": 172, "min": 89},
+		{"avg": 137, "day": "2025-05-05", "max": 189, "min": 90},
+		{"avg": 151, "day": "2025-05-06", "max": 176, "min": 91},
+		{"avg": 128, "day": "2025-05-07", "max": 157, "min": 89},
+		{"avg": 141, "day": "2025-05-08", "max": 189, "min": 89},
+		{"avg": 136, "day": "2025-05-09", "max": 174, "min": 89},
+		{"avg": 127, "day": "2025-05-10", "max": 156, "min": 89},
+		{"avg": 124, "day": "2025-05-11", "max": 138, "min": 89}
+	  ],
+	  "uvi": [
+		{"avg": 2, "day": "2025-05-03", "max": 8, "min": 0},
+		{"avg": 2, "day": "2025-05-04", "max": 9, "min": 0},
+		{"avg": 2, "day": "2025-05-05", "max": 9, "min": 0},
+		{"avg": 1, "day": "2025-05-06", "max": 7, "min": 0},
+		{"avg": 1, "day": "2025-05-07", "max": 7, "min": 0},
+		{"avg": 2, "day": "2025-05-08", "max": 10, "min": 0},
+		{"avg": 2, "day": "2025-05-09", "max": 7, "min": 0}
+	  ]
+	}
+  },
+  "debug": {
+	"sync": "2025-05-05T11:42:12+09:00"
+  }
+}
